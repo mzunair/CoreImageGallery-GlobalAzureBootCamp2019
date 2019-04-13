@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\muhammad.zunair\Desktop\BasicImageGallery-vs2019-launch\CoreImageGallery\CoreImageGallery\obj\Release\netcoreapp2.1\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\muhammad.zunair\Desktop\BasicImageGallery-vs2019-launch\CoreImageGallery\CoreImageGallery\obj\Release\netcoreapp2.1\PubTmp\EFSQLScripts\CoreImageGallery.Data.ApplicationDbContext.sql" />
+</sitemanifest>

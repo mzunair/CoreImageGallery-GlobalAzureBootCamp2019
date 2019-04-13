@@ -1,0 +1,12 @@
+C:\Users\muhammad.zunair\Desktop\BasicImageGallery-vs2019-launch\CoreImageGallery\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.deps.json
+C:\Users\muhammad.zunair\Desktop\BasicImageGallery-vs2019-launch\CoreImageGallery\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.dll
+C:\Users\muhammad.zunair\Desktop\BasicImageGallery-vs2019-launch\CoreImageGallery\ImageGallery.Model\bin\Debug\netstandard2.0\ImageGallery.Model.pdb
+C:\Users\muhammad.zunair\Desktop\BasicImageGallery-vs2019-launch\CoreImageGallery\ImageGallery.Model\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\muhammad.zunair\Desktop\BasicImageGallery-vs2019-launch\CoreImageGallery\ImageGallery.Model\bin\Debug\netstandard2.0\Microsoft.EntityFrameworkCore.xml
+C:\Users\muhammad.zunair\Desktop\BasicImageGallery-vs2019-launch\CoreImageGallery\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.csproj.CoreCompileInputs.cache
+C:\Users\muhammad.zunair\Desktop\BasicImageGallery-vs2019-launch\CoreImageGallery\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.AssemblyInfoInputs.cache
+C:\Users\muhammad.zunair\Desktop\BasicImageGallery-vs2019-launch\CoreImageGallery\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.AssemblyInfo.cs
+C:\Users\muhammad.zunair\Desktop\BasicImageGallery-vs2019-launch\CoreImageGallery\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.csproj.CopyComplete
+C:\Users\muhammad.zunair\Desktop\BasicImageGallery-vs2019-launch\CoreImageGallery\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.dll
+C:\Users\muhammad.zunair\Desktop\BasicImageGallery-vs2019-launch\CoreImageGallery\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.pdb
+C:\Users\muhammad.zunair\Desktop\BasicImageGallery-vs2019-launch\CoreImageGallery\ImageGallery.Model\obj\Debug\netstandard2.0\ImageGallery.Model.csprojAssemblyReference.cache

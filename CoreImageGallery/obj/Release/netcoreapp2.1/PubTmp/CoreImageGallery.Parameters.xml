@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="coreimagegallerywebapp-5tjgvx4eerbzo" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\muhammad\.zunair\\Desktop\\BasicImageGallery-vs2019-launch\\CoreImageGallery\\CoreImageGallery\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+  <parameter name="CoreImageGallery.Data.ApplicationDbContext" description="" value="Data Source=tcp:coreimagegallerysqlserver-5tjgvx4eerbzo.database.windows.net,1433;Initial Catalog=coreimagegallerysqldb;User Id=dbadmin@coreimagegallerysqlserver-5tjgvx4eerbzo;Password=Password@123;" tags="dbfullsql">
+    <parameterEntry kind="ProviderPath" scope="dbfullsql" match="^C:\\Users\\muhammad\.zunair\\Desktop\\BasicImageGallery-vs2019-launch\\CoreImageGallery\\CoreImageGallery\\obj\\Release\\netcoreapp2\.1\\PubTmp\\EFSQLScripts\\CoreImageGallery\.Data\.ApplicationDbContext\.sql$" />
+  </parameter>
+</parameters>

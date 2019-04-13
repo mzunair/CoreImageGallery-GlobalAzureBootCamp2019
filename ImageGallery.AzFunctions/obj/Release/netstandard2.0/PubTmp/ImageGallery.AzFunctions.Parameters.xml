@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="coreimagegalleryfunctionsapp-5tjgvx4eerbzo" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\muhammad\.zunair\\Desktop\\BasicImageGallery-vs2019-launch\\CoreImageGallery\\ImageGallery\.AzFunctions\\obj\\Release\\netstandard2\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAUaoFtY31XkeREVpS6Qv8BQAAAAACAAAAAAAQZgAAAAEAACAAAABhRMJuA154zEYwNfzEXvbp5W9dG+UdyVnn8OlS0KTVJAAAAAAOgAAAAAIAACAAAACJzyimj5SOaO2F27+ADFD3eW73yLUtQuQBgNjJX0WuOYAAAABwSfO0W1bBZhYdBezxWKnFWacYDIzp2OQYCOmUK8zQYmbgI+SFmiTheCj0itKEtaS/1Iud9FEVI4V0QoWCrHQsaMWaduUTVs/SrUZHsFIVr6fIYUxcBg5dUSt8PvPG79+9njKwTbAohaRQf8Pd4F7WUwGBCZsdXBMO8xW6UmiOyUAAAAD108RHDqXgTNypk3NMCSQ3Ki1ihMyzc/B8zNQXKrewd4kn5lH9mCnI8GPBD+tFgpVp2Jmlt7zayAcO+1ZKgrX7</EncryptedPassword>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="CoreImageGallery.Data.ApplicationDbContext">
+      <Value>Data Source=tcp:coreimagegallerysqlserver-5tjgvx4eerbzo.database.windows.net,1433%3bInitial Catalog=coreimagegallerysqldb%3bUser Id=dbadmin%40coreimagegallerysqlserver-5tjgvx4eerbzo%3bPassword=Password%40123%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

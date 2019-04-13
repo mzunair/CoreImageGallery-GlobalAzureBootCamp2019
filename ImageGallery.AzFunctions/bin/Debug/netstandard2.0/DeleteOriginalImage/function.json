@@ -1,0 +1,15 @@
+{
+  "generatedBy": "Microsoft.NET.Sdk.Functions-1.0.19",
+  "configurationSource": "attributes",
+  "bindings": [
+    {
+      "type": "blobTrigger",
+      "connection": "AzureWebJobsStorage",
+      "path": "images-watermarked/{name}",
+      "name": "myBlob"
+    }
+  ],
+  "disabled": false,
+  "scriptFile": "../bin/ImageGallery.AzFunctions.dll",
+  "entryPoint": "ImageGallery.AzFunctions.DeleteOriginalImage.Run"
+}
