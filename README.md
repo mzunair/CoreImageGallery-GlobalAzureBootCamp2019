@@ -1,5 +1,5 @@
 # CoreImageGallery-VS2019Launch
-This application demonstrates how to deploy a .NET Core, functions app on Azure using Visual Studio 2019.
+This application demonstrates how to deploy a .NET Core and functions app on Azure using Visual Studio 2019.
 
 
 Image Gallery
