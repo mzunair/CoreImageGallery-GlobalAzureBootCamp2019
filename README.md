@@ -1,4 +1,4 @@
-# CoreImageGallery-VS2019Launch
+# CoreImageGallery-GlobalAzureBootCamp2019
 This application demonstrates how to deploy a .NET Core and functions app on Azure using Visual Studio 2019.
 
 
