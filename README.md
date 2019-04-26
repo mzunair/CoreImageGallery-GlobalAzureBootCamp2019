@@ -20,7 +20,7 @@ Technologies
 
 Getting Started
 1) Clone the repo
-git clone https://github.com/zunair-ch/CoreImageGallery-VS2019Launch.git 
+git clone https://github.com/zunair-ch/CoreImageGallery-GlobalAzureBootCamp2019.git
 
 2) create all Azure resources using the azuredeploy.json ARM template and parameters.  Optionally configure the azuredeploy.paramemters.json file. 
 
